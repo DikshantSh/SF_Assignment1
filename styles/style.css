@@ -207,7 +207,8 @@ body br {
 .skills h1 {
   font-family: "Bungee Inline", cursive;
   font-size: 40px;
-  margin: 10px 0px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 .skills .skill-card {
   display: grid;
